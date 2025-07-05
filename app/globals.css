@@ -51,7 +51,11 @@
   --breakpoint-2xl: 96rem;
 }
 
-@container {
+/*@container {*/
+/*  padding: 0.938rem;*/
+/*}*/
+
+.container {
   padding: 0.938rem;
 }
 
