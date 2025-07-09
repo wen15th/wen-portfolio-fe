@@ -72,6 +72,7 @@ function SheetContent({
         {...props}>
         {/* Add DialogTitle to solve the Accessibility Design error */}
         <DialogTitle className="sr-only">Sidebar menu</DialogTitle>
+        <SheetDescription className="sr-only">Mobile navigation drawer</SheetDescription>
         {children}
         <SheetPrimitive.Close
           className="absolute right-8 top-8 transition-opacity outline-none">
