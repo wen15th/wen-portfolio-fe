@@ -11,8 +11,8 @@ const links = [
         href: "/",
     },
     {
-        name: "services",
-        href: "/services",
+        name: "projects",
+        href: "/projects",
     },
     {
         name: "resume",
